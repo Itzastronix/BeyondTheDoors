@@ -43,7 +43,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _BC_rgb_smoothness_a:
         m_Texture: {fileID: 2800000, guid: 513c537d6252b4744b1b6561afbb547d, type: 3}
-        m_Scale: {x: 7.95, y: 8.22}
+        m_Scale: {x: 6, y: 6}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
         m_Texture: {fileID: 0}
